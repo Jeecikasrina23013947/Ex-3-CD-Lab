@@ -74,7 +74,8 @@ void yyerror(const char *s) {
 ```
 # OUTPUT:
 
-![ww](https://github.com/user-attachments/assets/f1aada6a-424e-47c8-af8b-6cda90348dce)
+![WhatsApp Image 2024-11-23 at 10 33 49_8cc6ed9d](https://github.com/user-attachments/assets/89089ccd-7fbf-47f6-969d-c27c2a11aea5)
+
 
 
 # RESULT
